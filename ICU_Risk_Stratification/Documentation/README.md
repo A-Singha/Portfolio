@@ -1,16 +1,14 @@
-## ICU Group 1:
+# ADS1002_Project
+
+## DATASET: ICU
+
+### TOPIC QUESTION: "When an illness isn’t alone: How can we improve insurance risk-pricing strategies through comorbidity-informed ICU survival prediction?”
+
 ### Group Members:
 1. Anusha, 35216603, A-Singha
 2. Joyceline, 35237635, LeeJoy06
 3. Alvin, 35363304, JingYung047
 4. Jingfeng, 35598352, jf666-coder
-
-
-   
-## DATASET: ICU
-### TOPIC QUESTION: "When an illness isn’t alone: How can we improve insurance risk-pricing strategies through comorbidity-informed ICU survival prediction?”
-
-
 
 ### Sub-Questions:
 ##### **JOYCELINE:**
